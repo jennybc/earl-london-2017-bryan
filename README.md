@@ -19,7 +19,6 @@ When you see the camera vs. when you don't: <https://twitter.com/g3rv4/status/90
 Good enough practices in scientific computing by Wilson, Bryan, Cranston, Kitzes, Nederbragt, Teal
 
   * <https://doi.org/10.1371/journal.pcbi.1005510>
-  * <http://bit.ly/good-enuff>
   
 Practical Data Science for Stats, PeerJ Preprint Collection
 
