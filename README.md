@@ -29,7 +29,7 @@ Excuse me, do you have a moment to talk about version control? by Bryan
 
   * <https://doi.org/10.7287/peerj.preprints.3159v2>
   
-<happygitwithr.com>
+<http://happygitwithr.com>
 
 <http://reprex.tidyverse.org>
 
