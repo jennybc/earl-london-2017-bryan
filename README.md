@@ -2,6 +2,10 @@
 
 Links and credits for Jenny Bryan talk at EARL London, 2017 September 12/13/14
 
+See the slides on Speakerdeck:
+
+  * <https://speakerdeck.com/jennybc/workflow-you-should-have-one>
+
 <http://bit.ly/jenny-earl> *short link to this*
 
 <https://twitter.com/jennybryan>
